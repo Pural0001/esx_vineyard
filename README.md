@@ -11,3 +11,5 @@ You can change locations in config.
 If you want to translate the 3d text go in client/client.lua
 
 Added protection by https://github.com/Dev-Shaz
+
+Add me on discord for help Pural#0001
